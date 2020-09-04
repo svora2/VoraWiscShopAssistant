@@ -1,3 +1,16 @@
+Used DialogueFlow to create a virtual agent to give information and navigate a shopping website for the user 
+Objectives
+> Create a voice agent that allows a user to navigate a visual shopping interface.
+> Allow the user to navigate from anywhere back to home, or to their cart.
+> Allow the user to return to the previous page.
+> Allow the user to specify the category of items they want to look at.
+> Allow the user to specify attributes/tags to search in.
+> Allow the user to navigate to product pages.
+> Allow the user to add items (when on that product page) to their cart.
+> Allow the user to go to checkout and complete the process.
+
+
+
 # WiscShop API
 
 The following API can be accessed at `https://mysqlcs639.cs.wisc.edu`
